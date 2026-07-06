@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o José 👋
 
-<!--
-**Diiguxis/Diiguxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Web e estudante de Ciência da Computação, focado em construir sites e aplicações funcionais, do front-end à lógica por trás delas.
 
-Here are some ideas to get you started:
+## 🚀 O que eu faço
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desenvolvimento de sites e aplicações web (institucionais, ferramentas e sistemas com login/cadastro)
+- Criação de funcionalidades interativas com foco em experiência do usuário
+- Manutenção e correção de bugs em projetos já existentes
+
+## 🛠️ Ferramentas que utilizo
+
+`Next.js` `JavaScript` `HTML` `CSS` `Python` `Git & GitHub`
+
+## 📌 Projetos em destaque
+
+- **[Ditto](https://ditto-jc.vercel.app/)** — plataforma de ranking e gerenciamento de torneios competitivos de Pokémon
+- **[HospitalGeral](https://github.com/Diiguxis/HospitalGeral)** — site institucional com login, cadastro e agendamento
+- **[SOSFauna](https://github.com/Diiguxis/SOSFauna)** — site institucional para ONG de proteção animal
+
+## 📫 Contato
+
+- Email: ogenesdiig@gmail.com
+- Disponível para projetos freelance de desenvolvimento web
