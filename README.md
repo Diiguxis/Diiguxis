@@ -1,4 +1,4 @@
-# Olá, eu sou o José 👋
+# Olá, eu sou o Diógenes (Diiguxis) 👋
 
 Desenvolvedor Web e estudante de Ciência da Computação, focado em construir sites e aplicações funcionais, do front-end à lógica por trás delas.
 
