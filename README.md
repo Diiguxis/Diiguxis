@@ -14,7 +14,7 @@ Desenvolvedor Web e estudante de Ciência da Computação, focado em construir s
 
 ## 📌 Projetos em destaque
 
-- **[Ditto](https://ditto-jc.vercel.app/)** — plataforma de ranking e gerenciamento de torneios competitivos de Pokémon
+- **[Ditto]([https://ditto-jc.vercel.app/](https://www.jornadascobblemon.com.br/))** — plataforma de ranking e gerenciamento de torneios competitivos de Pokémon
 - **[HospitalGeral](https://github.com/Diiguxis/HospitalGeral)** — site institucional com login, cadastro e agendamento
 - **[SOSFauna](https://github.com/Diiguxis/SOSFauna)** — site institucional para ONG de proteção animal
 
