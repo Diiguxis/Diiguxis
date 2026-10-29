@@ -15,7 +15,7 @@ Desenvolvedor Web e estudante de Ciência da Computação, focado em construir s
 ## 📌 Projetos em destaque
 
 - **[Jornadas Cobblemon](https://www.jornadascobblemon.com.br/)** — plataforma de ranking e gerenciamento de torneios competitivos de Pokémon
-- **[HospitalGeral]([https://github.com/Diiguxis/HospitalGeral](https://hospitalgeral.ogenesdiig.workers.dev/))** — site institucional com login, cadastro e agendamento
+- **[HospitalGeral](https://hospitalgeral.ogenesdiig.workers.dev/)** — site institucional com login, cadastro e agendamento
 - **[SOSFauna](https://github.com/Diiguxis/SOSFauna)** — site institucional para ONG de proteção animal
 
 ## 📫 Contato
