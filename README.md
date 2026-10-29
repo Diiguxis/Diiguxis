@@ -10,8 +10,8 @@ Desenvolvedor Web e estudante de Ciência da Computação, focado em construir s
 
 ## 🛠️ Ferramentas que utilizo
 
-`Next.js` `JavaScript` `HTML` `CSS` `Python` `Git & GitHub`
-
+`Next.js` `JavaScript` `HTML` `CSS` `Python` `Git & GitHub` `Flutter` `Dart` `Typescpript`
+ 
 ## 📌 Projetos em destaque
 
 - **[Jornadas Cobblemon](https://www.jornadascobblemon.com.br/)** — plataforma de ranking e gerenciamento de torneios competitivos de Pokémon
